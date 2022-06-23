@@ -175,11 +175,11 @@ sup {
 }
 
 a {
-  color: #bc8c4c;
+  color: #000000;
   text-decoration: none;
   background-color: transparent;
 }
-
+/* #bc8c4c */
 a:hover {
   color: #886433;
   text-decoration: none;
